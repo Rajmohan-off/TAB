@@ -1,0 +1,1 @@
+# MicroPython ESP8266 script placeholder
